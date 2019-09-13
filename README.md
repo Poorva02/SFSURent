@@ -26,17 +26,10 @@ SFSURent is a house listing website catered to SFSU students looking for afforda
 ## Getting Started
 > On Linux & Mac
 ```
-git clone https://github.com/mecharmor/SFSURent.git
+git clone https://github.com/poorva02/SFSURent.git
 
 npm install
 
 npm start
 ```
 
-## Feedback
-For any other questions about this repo in general please reach out to anyone [**@mecharmor**](https://github.com/mecharmor) on Github. <br>
-PS: Feel free to fork it if you find our site interesting.
-
-
-
-> Updated on: 05/31/19, Cory Lewis
